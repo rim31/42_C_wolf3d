@@ -11,7 +11,7 @@ C langage
 mini lib x
 
 # Run
-git clone https://github.com/rim31/42-C-wolf3d.git
+git clone https://github.com/rim31/42_C_wolf3d.git
 
 cd 42-C-wolf3d
 
@@ -21,7 +21,7 @@ make
 
 (choose a map between 1 to 4)
 
-![Texte alternatif](https://github.com/rim31/42-C-wolf3d/blob/master/wolf.png "make")
+![Texte alternatif](https://github.com/rim31/42_C_wolf3d/blob/master/wolf.png "make")
 
 
 # basic render :
@@ -35,7 +35,7 @@ wall in differents colors accordint to directions
 
 Esc to quit the prgm
 
-![Texte alternatif](https://github.com/rim31/42-C-wolf3d/blob/master/wolf1.png "basic")
+![Texte alternatif](https://github.com/rim31/42_C_wolf3d/blob/master/wolf1.png "basic")
 
 # Bonus :
 mini map : press 's'
@@ -48,14 +48,14 @@ mod "toad kart"
 
 skybox
 
-![Texte alternatif](https://github.com/rim31/42-C-wolf3d/blob/master/wolf2.png "bonus")
+![Texte alternatif](https://github.com/rim31/42_C_wolf3d/blob/master/wolf2.png "bonus")
 
 # Ultimate bonus:
 texture on walls press 'a' (in qwerty) or 'q' (in azerty)
 
 'spacebar' to accelerate
 
-![Texte alternatif](https://github.com/rim31/42-C-wolf3d/blob/master/wolf3.png "basic")
+![Texte alternatif](https://github.com/rim31/42_C_wolf3d/blob/master/wolf3.png "basic")
 
 # Difficulties : 
 put textures.
